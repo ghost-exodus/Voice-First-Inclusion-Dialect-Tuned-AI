@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-This dataset forms the empirical foundation for the **Voice-First-Inclusion-Dialect-Tuned-AI** project. It is specifically curated to capture the acoustic and lexical variations of the Hindi dialect spoken in the Ashta region of Madhya Pradesh, India (which exhibits strong morphological and phonetic influences from Malvi and Bhopali).
+This is a dataset forms the empirical foundation for the **Voice-First-Inclusion-Dialect-Tuned-AI** project. It is specifically curated to capture the acoustic and lexical variations of the Hindi dialect spoken in the Ashta region of Madhya Pradesh, India (which exhibits strong morphological and phonetic influences from Malvi and Bhopali).
 
 The primary objective of this dataset is to fine-tune end-to-end Automatic Speech Recognition (ASR) models for low-resource dialectal variations, mitigating the performance degradation typically observed when standard Hindi ASR systems encounter regional phonology and spontaneous local speech.
 
